@@ -1,5 +1,5 @@
 # Convolutional-Neural-Network
-My from scratch implementation only using python and CuPy.
+My from scratch implementation only using python and CuPy. THe script is specifically set up for the MNIST handwritten numbers dataset currently
 
 I set out with the goal of implementing this algorithm from scratch so in the future whenever I dive into the many machine learning libraries
 such as PyTorch and TensorFlow, I could understand what is going on behind the scenes and understand what they do further.
